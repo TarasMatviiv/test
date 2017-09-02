@@ -1,7 +1,5 @@
 # test
 
+Info for non-telepatic people ;)
+
 Working with CMD
-
-Something new
-
-Something new again
