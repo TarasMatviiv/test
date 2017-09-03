@@ -1,3 +1,3 @@
 # test
 
-Info for non-telepatic people ;)
+Info for non-telepatic people :)
